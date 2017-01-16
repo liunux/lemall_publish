@@ -1,0 +1,455 @@
+2016-11-17 12:47:57,084 DEBUG auto.py[line:26] 911 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.176.81.39:/letv/public/soft/tomcat_024e96d0-ac81-11e6-a3fc-e41f1368e8f0/
+2016-11-17 12:47:57,338 INFO  init.py[line:122] 911 Tomcat检查脚本上传成功 10.176.81.39 activity 8123
+2016-11-17 12:47:57,339 DEBUG auto.py[line:37] 911 ssh 10.176.81.39 'cd /letv/public/soft/tomcat_024e96d0-ac81-11e6-a3fc-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-17 12:47:57,453 ERROR auto.py[line:40] 911 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-17 12:47:57,453 ERROR init.py[line:127] 911 Tomcat安装状态Error 10.176.81.39 activity 8123
+2016-11-17 12:47:57,454 DEBUG auto.py[line:26] 3374 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.135.80.240:/letv/public/soft/tomcat_02871758-ac81-11e6-a3fc-e41f1368e8f0/
+2016-11-17 12:47:57,613 INFO  init.py[line:122] 3374 Tomcat检查脚本上传成功 10.135.80.240 activity 8123
+2016-11-17 12:47:57,613 DEBUG auto.py[line:37] 3374 ssh 10.135.80.240 'cd /letv/public/soft/tomcat_02871758-ac81-11e6-a3fc-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-17 12:47:57,724 ERROR auto.py[line:40] 3374 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-17 12:47:57,725 ERROR init.py[line:127] 3374 Tomcat安装状态Error 10.135.80.240 activity 8123
+2016-11-17 12:47:57,725 DEBUG auto.py[line:26] 3377 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.135.80.248:/letv/public/soft/tomcat_02b07800-ac81-11e6-a3fc-e41f1368e8f0/
+2016-11-17 12:47:57,882 INFO  init.py[line:122] 3377 Tomcat检查脚本上传成功 10.135.80.248 activity 8123
+2016-11-17 12:47:57,883 DEBUG auto.py[line:37] 3377 ssh 10.135.80.248 'cd /letv/public/soft/tomcat_02b07800-ac81-11e6-a3fc-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-17 12:47:57,995 ERROR auto.py[line:40] 3377 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-17 12:47:57,995 ERROR init.py[line:127] 3377 Tomcat安装状态Error 10.135.80.248 activity 8123
+2016-11-17 12:47:57,996 DEBUG auto.py[line:26] 12176 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.112.82.27:/letv/public/soft/tomcat_02d9cbf6-ac81-11e6-a3fc-e41f1368e8f0/
+2016-11-17 12:47:58,184 INFO  init.py[line:122] 12176 Tomcat检查脚本上传成功 10.112.82.27 activity 8123
+2016-11-17 12:47:58,184 DEBUG auto.py[line:37] 12176 ssh 10.112.82.27 'cd /letv/public/soft/tomcat_02d9cbf6-ac81-11e6-a3fc-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-17 12:47:58,311 ERROR auto.py[line:40] 12176 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-17 12:47:58,312 ERROR init.py[line:127] 12176 Tomcat安装状态Error 10.112.82.27 activity 8123
+2016-11-17 12:47:58,312 DEBUG auto.py[line:26] 12179 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.112.82.21:/letv/public/soft/tomcat_030a0d3e-ac81-11e6-a3fc-e41f1368e8f0/
+2016-11-17 12:47:58,473 INFO  init.py[line:122] 12179 Tomcat检查脚本上传成功 10.112.82.21 activity 8123
+2016-11-17 12:47:58,473 DEBUG auto.py[line:37] 12179 ssh 10.112.82.21 'cd /letv/public/soft/tomcat_030a0d3e-ac81-11e6-a3fc-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-17 12:47:58,597 ERROR auto.py[line:40] 12179 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-17 12:47:58,598 ERROR init.py[line:127] 12179 Tomcat安装状态Error 10.112.82.21 activity 8123
+2016-11-17 12:47:58,598 DEBUG auto.py[line:26] 14493092 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.176.81.40:/letv/public/soft/tomcat_0335ae8a-ac81-11e6-a3fc-e41f1368e8f0/
+2016-11-17 12:47:58,756 INFO  init.py[line:122] 14493092 Tomcat检查脚本上传成功 10.176.81.40 activity 8123
+2016-11-17 12:47:58,756 DEBUG auto.py[line:37] 14493092 ssh 10.176.81.40 'cd /letv/public/soft/tomcat_0335ae8a-ac81-11e6-a3fc-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-17 12:47:58,867 ERROR auto.py[line:40] 14493092 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-17 12:47:58,868 ERROR init.py[line:127] 14493092 Tomcat安装状态Error 10.176.81.40 activity 8123
+2016-11-17 12:47:58,868 DEBUG auto.py[line:26] 14608038 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.154.83.158:/letv/public/soft/tomcat_035ee390-ac81-11e6-a3fc-e41f1368e8f0/
+2016-11-17 12:47:59,031 INFO  init.py[line:122] 14608038 Tomcat检查脚本上传成功 10.154.83.158 activity 8123
+2016-11-17 12:47:59,031 DEBUG auto.py[line:37] 14608038 ssh 10.154.83.158 'cd /letv/public/soft/tomcat_035ee390-ac81-11e6-a3fc-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-17 12:47:59,150 ERROR auto.py[line:40] 14608038 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-17 12:47:59,150 ERROR init.py[line:127] 14608038 Tomcat安装状态Error 10.154.83.158 activity 8123
+2016-11-17 12:47:59,151 DEBUG auto.py[line:26] 14610886 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.154.83.159:/letv/public/soft/tomcat_0389f878-ac81-11e6-a3fc-e41f1368e8f0/
+2016-11-17 12:47:59,317 INFO  init.py[line:122] 14610886 Tomcat检查脚本上传成功 10.154.83.159 activity 8123
+2016-11-17 12:47:59,318 DEBUG auto.py[line:37] 14610886 ssh 10.154.83.159 'cd /letv/public/soft/tomcat_0389f878-ac81-11e6-a3fc-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-17 12:47:59,432 ERROR auto.py[line:40] 14610886 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-17 12:47:59,432 ERROR init.py[line:127] 14610886 Tomcat安装状态Error 10.154.83.159 activity 8123
+2016-11-17 12:47:59,433 DEBUG auto.py[line:26] 14610888 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.154.83.162:/letv/public/soft/tomcat_03b4ffe6-ac81-11e6-a3fc-e41f1368e8f0/
+2016-11-17 12:47:59,590 INFO  init.py[line:122] 14610888 Tomcat检查脚本上传成功 10.154.83.162 activity 8123
+2016-11-17 12:47:59,591 DEBUG auto.py[line:37] 14610888 ssh 10.154.83.162 'cd /letv/public/soft/tomcat_03b4ffe6-ac81-11e6-a3fc-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-17 12:47:59,709 ERROR auto.py[line:40] 14610888 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-17 12:47:59,709 ERROR init.py[line:127] 14610888 Tomcat安装状态Error 10.154.83.162 activity 8123
+2016-11-17 12:47:59,710 DEBUG auto.py[line:26] 14610889 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.154.83.166:/letv/public/soft/tomcat_03df4e2c-ac81-11e6-a3fc-e41f1368e8f0/
+2016-11-17 12:47:59,868 INFO  init.py[line:122] 14610889 Tomcat检查脚本上传成功 10.154.83.166 activity 8123
+2016-11-17 12:47:59,868 DEBUG auto.py[line:37] 14610889 ssh 10.154.83.166 'cd /letv/public/soft/tomcat_03df4e2c-ac81-11e6-a3fc-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-17 12:47:59,974 ERROR auto.py[line:40] 14610889 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-17 12:47:59,975 ERROR init.py[line:127] 14610889 Tomcat安装状态Error 10.154.83.166 activity 8123
+2016-11-17 12:47:59,975 DEBUG auto.py[line:26] 14610891 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.154.83.168:/letv/public/soft/tomcat_0407cb72-ac81-11e6-a3fc-e41f1368e8f0/
+2016-11-17 12:48:00,132 INFO  init.py[line:122] 14610891 Tomcat检查脚本上传成功 10.154.83.168 activity 8123
+2016-11-17 12:48:00,132 DEBUG auto.py[line:37] 14610891 ssh 10.154.83.168 'cd /letv/public/soft/tomcat_0407cb72-ac81-11e6-a3fc-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-17 12:48:00,244 ERROR auto.py[line:40] 14610891 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-17 12:48:00,244 ERROR init.py[line:127] 14610891 Tomcat安装状态Error 10.154.83.168 activity 8123
+2016-11-17 12:48:00,245 DEBUG auto.py[line:26] 14610892 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.154.83.171:/letv/public/soft/tomcat_0430e746-ac81-11e6-a3fc-e41f1368e8f0/
+2016-11-17 12:48:00,407 INFO  init.py[line:122] 14610892 Tomcat检查脚本上传成功 10.154.83.171 activity 8123
+2016-11-17 12:48:00,408 DEBUG auto.py[line:37] 14610892 ssh 10.154.83.171 'cd /letv/public/soft/tomcat_0430e746-ac81-11e6-a3fc-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-17 12:48:00,522 ERROR auto.py[line:40] 14610892 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-17 12:48:00,522 ERROR init.py[line:127] 14610892 Tomcat安装状态Error 10.154.83.171 activity 8123
+2016-11-17 12:48:00,523 DEBUG auto.py[line:26] 14610894 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.154.83.172:/letv/public/soft/tomcat_045b5670-ac81-11e6-a3fc-e41f1368e8f0/
+2016-11-17 12:48:00,690 INFO  init.py[line:122] 14610894 Tomcat检查脚本上传成功 10.154.83.172 activity 8123
+2016-11-17 12:48:00,691 DEBUG auto.py[line:37] 14610894 ssh 10.154.83.172 'cd /letv/public/soft/tomcat_045b5670-ac81-11e6-a3fc-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-17 12:48:00,804 ERROR auto.py[line:40] 14610894 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-17 12:48:00,805 ERROR init.py[line:127] 14610894 Tomcat安装状态Error 10.154.83.172 activity 8123
+2016-11-17 12:48:00,805 DEBUG auto.py[line:26] 14610895 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.154.83.173:/letv/public/soft/tomcat_04866eb4-ac81-11e6-a3fc-e41f1368e8f0/
+2016-11-17 12:48:00,971 INFO  init.py[line:122] 14610895 Tomcat检查脚本上传成功 10.154.83.173 activity 8123
+2016-11-17 12:48:00,972 DEBUG auto.py[line:37] 14610895 ssh 10.154.83.173 'cd /letv/public/soft/tomcat_04866eb4-ac81-11e6-a3fc-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-17 12:48:01,091 ERROR auto.py[line:40] 14610895 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-17 12:48:01,091 ERROR init.py[line:127] 14610895 Tomcat安装状态Error 10.154.83.173 activity 8123
+2016-11-17 12:48:01,092 DEBUG auto.py[line:26] 14610897 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.154.83.174:/letv/public/soft/tomcat_04b23684-ac81-11e6-a3fc-e41f1368e8f0/
+2016-11-17 12:48:01,260 INFO  init.py[line:122] 14610897 Tomcat检查脚本上传成功 10.154.83.174 activity 8123
+2016-11-17 12:48:01,260 DEBUG auto.py[line:37] 14610897 ssh 10.154.83.174 'cd /letv/public/soft/tomcat_04b23684-ac81-11e6-a3fc-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-17 12:48:01,377 ERROR auto.py[line:40] 14610897 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-17 12:48:01,378 ERROR init.py[line:127] 14610897 Tomcat安装状态Error 10.154.83.174 activity 8123
+2016-11-17 12:48:01,379 DEBUG auto.py[line:26] 14610898 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.154.83.177:/letv/public/soft/tomcat_04dde9d2-ac81-11e6-a3fc-e41f1368e8f0/
+2016-11-17 12:48:01,538 INFO  init.py[line:122] 14610898 Tomcat检查脚本上传成功 10.154.83.177 activity 8123
+2016-11-17 12:48:01,538 DEBUG auto.py[line:37] 14610898 ssh 10.154.83.177 'cd /letv/public/soft/tomcat_04dde9d2-ac81-11e6-a3fc-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-17 12:48:01,647 ERROR auto.py[line:40] 14610898 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-17 12:48:01,647 ERROR init.py[line:127] 14610898 Tomcat安装状态Error 10.154.83.177 activity 8123
+2016-11-17 12:48:01,648 DEBUG auto.py[line:26] 14610900 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.154.83.178:/letv/public/soft/tomcat_050710dc-ac81-11e6-a3fc-e41f1368e8f0/
+2016-11-17 12:48:01,808 INFO  init.py[line:122] 14610900 Tomcat检查脚本上传成功 10.154.83.178 activity 8123
+2016-11-17 12:48:01,809 DEBUG auto.py[line:37] 14610900 ssh 10.154.83.178 'cd /letv/public/soft/tomcat_050710dc-ac81-11e6-a3fc-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-17 12:48:01,923 ERROR auto.py[line:40] 14610900 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-17 12:48:01,923 ERROR init.py[line:127] 14610900 Tomcat安装状态Error 10.154.83.178 activity 8123
+2016-11-17 12:48:01,924 DEBUG auto.py[line:26] 14610901 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.154.83.179:/letv/public/soft/tomcat_05311d78-ac81-11e6-a3fc-e41f1368e8f0/
+2016-11-17 12:48:02,085 INFO  init.py[line:122] 14610901 Tomcat检查脚本上传成功 10.154.83.179 activity 8123
+2016-11-17 12:48:02,086 DEBUG auto.py[line:37] 14610901 ssh 10.154.83.179 'cd /letv/public/soft/tomcat_05311d78-ac81-11e6-a3fc-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-17 12:48:02,202 ERROR auto.py[line:40] 14610901 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-17 12:48:02,202 ERROR init.py[line:127] 14610901 Tomcat安装状态Error 10.154.83.179 activity 8123
+2016-11-17 12:48:02,203 DEBUG auto.py[line:26] 14610903 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.154.83.182:/letv/public/soft/tomcat_055bb9ac-ac81-11e6-a3fc-e41f1368e8f0/
+2016-11-17 12:48:02,367 INFO  init.py[line:122] 14610903 Tomcat检查脚本上传成功 10.154.83.182 activity 8123
+2016-11-17 12:48:02,367 DEBUG auto.py[line:37] 14610903 ssh 10.154.83.182 'cd /letv/public/soft/tomcat_055bb9ac-ac81-11e6-a3fc-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-17 12:48:02,486 ERROR auto.py[line:40] 14610903 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-17 12:48:02,487 ERROR init.py[line:127] 14610903 Tomcat安装状态Error 10.154.83.182 activity 8123
+2016-11-17 12:48:02,488 DEBUG auto.py[line:26] 14610904 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.154.83.184:/letv/public/soft/tomcat_05872056-ac81-11e6-a3fc-e41f1368e8f0/
+2016-11-17 12:48:02,650 INFO  init.py[line:122] 14610904 Tomcat检查脚本上传成功 10.154.83.184 activity 8123
+2016-11-17 12:48:02,651 DEBUG auto.py[line:37] 14610904 ssh 10.154.83.184 'cd /letv/public/soft/tomcat_05872056-ac81-11e6-a3fc-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-17 12:48:02,765 ERROR auto.py[line:40] 14610904 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-17 12:48:02,765 ERROR init.py[line:127] 14610904 Tomcat安装状态Error 10.154.83.184 activity 8123
+2016-11-17 12:48:02,766 DEBUG auto.py[line:26] 14610906 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.154.83.187:/letv/public/soft/tomcat_05b1a0ec-ac81-11e6-a3fc-e41f1368e8f0/
+2016-11-17 12:48:02,940 INFO  init.py[line:122] 14610906 Tomcat检查脚本上传成功 10.154.83.187 activity 8123
+2016-11-17 12:48:02,940 DEBUG auto.py[line:37] 14610906 ssh 10.154.83.187 'cd /letv/public/soft/tomcat_05b1a0ec-ac81-11e6-a3fc-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-17 12:48:03,049 ERROR auto.py[line:40] 14610906 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-17 12:48:03,050 ERROR init.py[line:127] 14610906 Tomcat安装状态Error 10.154.83.187 activity 8123
+2016-11-17 12:48:03,051 DEBUG auto.py[line:26] 14610907 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.154.83.189:/letv/public/soft/tomcat_05dd0b1a-ac81-11e6-a3fc-e41f1368e8f0/
+2016-11-17 12:48:03,218 INFO  init.py[line:122] 14610907 Tomcat检查脚本上传成功 10.154.83.189 activity 8123
+2016-11-17 12:48:03,218 DEBUG auto.py[line:37] 14610907 ssh 10.154.83.189 'cd /letv/public/soft/tomcat_05dd0b1a-ac81-11e6-a3fc-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-17 12:48:03,338 ERROR auto.py[line:40] 14610907 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-17 12:48:03,338 ERROR init.py[line:127] 14610907 Tomcat安装状态Error 10.154.83.189 activity 8123
+2016-11-17 12:48:06,598 DEBUG auto.py[line:26] 911 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.176.81.39:/letv/public/soft/tomcat_07fa4d36-ac81-11e6-a3fc-e41f1368e8f0/
+2016-11-17 12:48:06,756 INFO  init.py[line:122] 911 Tomcat检查脚本上传成功 10.176.81.39 activity 8123
+2016-11-17 12:48:06,757 DEBUG auto.py[line:37] 911 ssh 10.176.81.39 'cd /letv/public/soft/tomcat_07fa4d36-ac81-11e6-a3fc-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-17 12:48:06,872 ERROR auto.py[line:40] 911 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-17 12:48:06,872 ERROR init.py[line:127] 911 Tomcat安装状态Error 10.176.81.39 activity 8123
+2016-11-17 12:48:06,873 DEBUG auto.py[line:26] 3374 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.135.80.240:/letv/public/soft/tomcat_0824500e-ac81-11e6-a3fc-e41f1368e8f0/
+2016-11-17 12:48:07,030 INFO  init.py[line:122] 3374 Tomcat检查脚本上传成功 10.135.80.240 activity 8123
+2016-11-17 12:48:07,030 DEBUG auto.py[line:37] 3374 ssh 10.135.80.240 'cd /letv/public/soft/tomcat_0824500e-ac81-11e6-a3fc-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-17 12:48:07,144 ERROR auto.py[line:40] 3374 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-17 12:48:07,145 ERROR init.py[line:127] 3374 Tomcat安装状态Error 10.135.80.240 activity 8123
+2016-11-17 12:48:07,146 DEBUG auto.py[line:26] 3377 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.135.80.248:/letv/public/soft/tomcat_084de3a6-ac81-11e6-a3fc-e41f1368e8f0/
+2016-11-17 12:48:07,301 INFO  init.py[line:122] 3377 Tomcat检查脚本上传成功 10.135.80.248 activity 8123
+2016-11-17 12:48:07,302 DEBUG auto.py[line:37] 3377 ssh 10.135.80.248 'cd /letv/public/soft/tomcat_084de3a6-ac81-11e6-a3fc-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-17 12:48:07,412 ERROR auto.py[line:40] 3377 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-17 12:48:07,412 ERROR init.py[line:127] 3377 Tomcat安装状态Error 10.135.80.248 activity 8123
+2016-11-17 12:48:07,413 DEBUG auto.py[line:26] 12176 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.112.82.27:/letv/public/soft/tomcat_0876a61a-ac81-11e6-a3fc-e41f1368e8f0/
+2016-11-17 12:48:07,586 INFO  init.py[line:122] 12176 Tomcat检查脚本上传成功 10.112.82.27 activity 8123
+2016-11-17 12:48:07,586 DEBUG auto.py[line:37] 12176 ssh 10.112.82.27 'cd /letv/public/soft/tomcat_0876a61a-ac81-11e6-a3fc-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-17 12:48:07,705 ERROR auto.py[line:40] 12176 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-17 12:48:07,705 ERROR init.py[line:127] 12176 Tomcat安装状态Error 10.112.82.27 activity 8123
+2016-11-17 12:48:07,706 DEBUG auto.py[line:26] 12179 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.112.82.21:/letv/public/soft/tomcat_08a362e0-ac81-11e6-a3fc-e41f1368e8f0/
+2016-11-17 12:48:07,873 INFO  init.py[line:122] 12179 Tomcat检查脚本上传成功 10.112.82.21 activity 8123
+2016-11-17 12:48:07,874 DEBUG auto.py[line:37] 12179 ssh 10.112.82.21 'cd /letv/public/soft/tomcat_08a362e0-ac81-11e6-a3fc-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-17 12:48:07,994 ERROR auto.py[line:40] 12179 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-17 12:48:07,994 ERROR init.py[line:127] 12179 Tomcat安装状态Error 10.112.82.21 activity 8123
+2016-11-17 12:48:07,995 DEBUG auto.py[line:26] 14493092 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.176.81.40:/letv/public/soft/tomcat_08cf8456-ac81-11e6-a3fc-e41f1368e8f0/
+2016-11-17 12:48:08,153 INFO  init.py[line:122] 14493092 Tomcat检查脚本上传成功 10.176.81.40 activity 8123
+2016-11-17 12:48:08,154 DEBUG auto.py[line:37] 14493092 ssh 10.176.81.40 'cd /letv/public/soft/tomcat_08cf8456-ac81-11e6-a3fc-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-17 12:48:08,265 ERROR auto.py[line:40] 14493092 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-17 12:48:08,266 ERROR init.py[line:127] 14493092 Tomcat安装状态Error 10.176.81.40 activity 8123
+2016-11-17 12:48:08,266 DEBUG auto.py[line:26] 14608038 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.154.83.158:/letv/public/soft/tomcat_08f8e738-ac81-11e6-a3fc-e41f1368e8f0/
+2016-11-17 12:48:08,429 INFO  init.py[line:122] 14608038 Tomcat检查脚本上传成功 10.154.83.158 activity 8123
+2016-11-17 12:48:08,429 DEBUG auto.py[line:37] 14608038 ssh 10.154.83.158 'cd /letv/public/soft/tomcat_08f8e738-ac81-11e6-a3fc-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-17 12:48:08,547 ERROR auto.py[line:40] 14608038 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-17 12:48:08,548 ERROR init.py[line:127] 14608038 Tomcat安装状态Error 10.154.83.158 activity 8123
+2016-11-17 12:48:08,548 DEBUG auto.py[line:26] 14610886 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.154.83.159:/letv/public/soft/tomcat_0923e8f2-ac81-11e6-a3fc-e41f1368e8f0/
+2016-11-17 12:48:08,708 INFO  init.py[line:122] 14610886 Tomcat检查脚本上传成功 10.154.83.159 activity 8123
+2016-11-17 12:48:08,708 DEBUG auto.py[line:37] 14610886 ssh 10.154.83.159 'cd /letv/public/soft/tomcat_0923e8f2-ac81-11e6-a3fc-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-17 12:48:08,823 ERROR auto.py[line:40] 14610886 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-17 12:48:08,824 ERROR init.py[line:127] 14610886 Tomcat安装状态Error 10.154.83.159 activity 8123
+2016-11-17 12:48:08,824 DEBUG auto.py[line:26] 14610888 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.154.83.162:/letv/public/soft/tomcat_094e0628-ac81-11e6-a3fc-e41f1368e8f0/
+2016-11-17 12:48:08,983 INFO  init.py[line:122] 14610888 Tomcat检查脚本上传成功 10.154.83.162 activity 8123
+2016-11-17 12:48:08,983 DEBUG auto.py[line:37] 14610888 ssh 10.154.83.162 'cd /letv/public/soft/tomcat_094e0628-ac81-11e6-a3fc-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-17 12:48:09,097 ERROR auto.py[line:40] 14610888 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-17 12:48:09,097 ERROR init.py[line:127] 14610888 Tomcat安装状态Error 10.154.83.162 activity 8123
+2016-11-17 12:48:09,098 DEBUG auto.py[line:26] 14610889 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.154.83.166:/letv/public/soft/tomcat_0977cd50-ac81-11e6-a3fc-e41f1368e8f0/
+2016-11-17 12:48:09,258 INFO  init.py[line:122] 14610889 Tomcat检查脚本上传成功 10.154.83.166 activity 8123
+2016-11-17 12:48:09,259 DEBUG auto.py[line:37] 14610889 ssh 10.154.83.166 'cd /letv/public/soft/tomcat_0977cd50-ac81-11e6-a3fc-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-17 12:48:09,375 ERROR auto.py[line:40] 14610889 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-17 12:48:09,376 ERROR init.py[line:127] 14610889 Tomcat安装状态Error 10.154.83.166 activity 8123
+2016-11-17 12:48:09,377 DEBUG auto.py[line:26] 14610891 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.154.83.168:/letv/public/soft/tomcat_09a24bd4-ac81-11e6-a3fc-e41f1368e8f0/
+2016-11-17 12:48:09,533 INFO  init.py[line:122] 14610891 Tomcat检查脚本上传成功 10.154.83.168 activity 8123
+2016-11-17 12:48:09,533 DEBUG auto.py[line:37] 14610891 ssh 10.154.83.168 'cd /letv/public/soft/tomcat_09a24bd4-ac81-11e6-a3fc-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-17 12:48:09,645 ERROR auto.py[line:40] 14610891 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-17 12:48:09,646 ERROR init.py[line:127] 14610891 Tomcat安装状态Error 10.154.83.168 activity 8123
+2016-11-17 12:48:09,646 DEBUG auto.py[line:26] 14610892 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.154.83.171:/letv/public/soft/tomcat_09cb75f4-ac81-11e6-a3fc-e41f1368e8f0/
+2016-11-17 12:48:09,808 INFO  init.py[line:122] 14610892 Tomcat检查脚本上传成功 10.154.83.171 activity 8123
+2016-11-17 12:48:09,808 DEBUG auto.py[line:37] 14610892 ssh 10.154.83.171 'cd /letv/public/soft/tomcat_09cb75f4-ac81-11e6-a3fc-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-17 12:48:09,922 ERROR auto.py[line:40] 14610892 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-17 12:48:09,923 ERROR init.py[line:127] 14610892 Tomcat安装状态Error 10.154.83.171 activity 8123
+2016-11-17 12:48:09,923 DEBUG auto.py[line:26] 14610894 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.154.83.172:/letv/public/soft/tomcat_09f5bf94-ac81-11e6-a3fc-e41f1368e8f0/
+2016-11-17 12:48:10,085 INFO  init.py[line:122] 14610894 Tomcat检查脚本上传成功 10.154.83.172 activity 8123
+2016-11-17 12:48:10,086 DEBUG auto.py[line:37] 14610894 ssh 10.154.83.172 'cd /letv/public/soft/tomcat_09f5bf94-ac81-11e6-a3fc-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-17 12:48:10,205 ERROR auto.py[line:40] 14610894 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-17 12:48:10,205 ERROR init.py[line:127] 14610894 Tomcat安装状态Error 10.154.83.172 activity 8123
+2016-11-17 12:48:10,206 DEBUG auto.py[line:26] 14610895 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.154.83.173:/letv/public/soft/tomcat_0a20eab6-ac81-11e6-a3fc-e41f1368e8f0/
+2016-11-17 12:48:10,366 INFO  init.py[line:122] 14610895 Tomcat检查脚本上传成功 10.154.83.173 activity 8123
+2016-11-17 12:48:10,366 DEBUG auto.py[line:37] 14610895 ssh 10.154.83.173 'cd /letv/public/soft/tomcat_0a20eab6-ac81-11e6-a3fc-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-17 12:48:10,478 ERROR auto.py[line:40] 14610895 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-17 12:48:10,479 ERROR init.py[line:127] 14610895 Tomcat安装状态Error 10.154.83.173 activity 8123
+2016-11-17 12:48:10,479 DEBUG auto.py[line:26] 14610897 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.154.83.174:/letv/public/soft/tomcat_0a4a929e-ac81-11e6-a3fc-e41f1368e8f0/
+2016-11-17 12:48:10,637 INFO  init.py[line:122] 14610897 Tomcat检查脚本上传成功 10.154.83.174 activity 8123
+2016-11-17 12:48:10,637 DEBUG auto.py[line:37] 14610897 ssh 10.154.83.174 'cd /letv/public/soft/tomcat_0a4a929e-ac81-11e6-a3fc-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-17 12:48:10,748 ERROR auto.py[line:40] 14610897 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-17 12:48:10,748 ERROR init.py[line:127] 14610897 Tomcat安装状态Error 10.154.83.174 activity 8123
+2016-11-17 12:48:10,749 DEBUG auto.py[line:26] 14610898 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.154.83.177:/letv/public/soft/tomcat_0a73aa44-ac81-11e6-a3fc-e41f1368e8f0/
+2016-11-17 12:48:10,908 INFO  init.py[line:122] 14610898 Tomcat检查脚本上传成功 10.154.83.177 activity 8123
+2016-11-17 12:48:10,908 DEBUG auto.py[line:37] 14610898 ssh 10.154.83.177 'cd /letv/public/soft/tomcat_0a73aa44-ac81-11e6-a3fc-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-17 12:48:11,020 ERROR auto.py[line:40] 14610898 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-17 12:48:11,021 ERROR init.py[line:127] 14610898 Tomcat安装状态Error 10.154.83.177 activity 8123
+2016-11-17 12:48:11,021 DEBUG auto.py[line:26] 14610900 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.154.83.178:/letv/public/soft/tomcat_0a9d4cdc-ac81-11e6-a3fc-e41f1368e8f0/
+2016-11-17 12:48:11,184 INFO  init.py[line:122] 14610900 Tomcat检查脚本上传成功 10.154.83.178 activity 8123
+2016-11-17 12:48:11,184 DEBUG auto.py[line:37] 14610900 ssh 10.154.83.178 'cd /letv/public/soft/tomcat_0a9d4cdc-ac81-11e6-a3fc-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-17 12:48:11,299 ERROR auto.py[line:40] 14610900 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-17 12:48:11,299 ERROR init.py[line:127] 14610900 Tomcat安装状态Error 10.154.83.178 activity 8123
+2016-11-17 12:48:11,300 DEBUG auto.py[line:26] 14610901 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.154.83.179:/letv/public/soft/tomcat_0ac7cffc-ac81-11e6-a3fc-e41f1368e8f0/
+2016-11-17 12:48:11,464 INFO  init.py[line:122] 14610901 Tomcat检查脚本上传成功 10.154.83.179 activity 8123
+2016-11-17 12:48:11,464 DEBUG auto.py[line:37] 14610901 ssh 10.154.83.179 'cd /letv/public/soft/tomcat_0ac7cffc-ac81-11e6-a3fc-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-17 12:48:11,584 ERROR auto.py[line:40] 14610901 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-17 12:48:11,584 ERROR init.py[line:127] 14610901 Tomcat安装状态Error 10.154.83.179 activity 8123
+2016-11-17 12:48:11,585 DEBUG auto.py[line:26] 14610903 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.154.83.182:/letv/public/soft/tomcat_0af34f2e-ac81-11e6-a3fc-e41f1368e8f0/
+2016-11-17 12:48:11,746 INFO  init.py[line:122] 14610903 Tomcat检查脚本上传成功 10.154.83.182 activity 8123
+2016-11-17 12:48:11,747 DEBUG auto.py[line:37] 14610903 ssh 10.154.83.182 'cd /letv/public/soft/tomcat_0af34f2e-ac81-11e6-a3fc-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-17 12:48:11,857 ERROR auto.py[line:40] 14610903 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-17 12:48:11,857 ERROR init.py[line:127] 14610903 Tomcat安装状态Error 10.154.83.182 activity 8123
+2016-11-17 12:48:11,858 DEBUG auto.py[line:26] 14610904 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.154.83.184:/letv/public/soft/tomcat_0b1cee56-ac81-11e6-a3fc-e41f1368e8f0/
+2016-11-17 12:48:12,017 INFO  init.py[line:122] 14610904 Tomcat检查脚本上传成功 10.154.83.184 activity 8123
+2016-11-17 12:48:12,017 DEBUG auto.py[line:37] 14610904 ssh 10.154.83.184 'cd /letv/public/soft/tomcat_0b1cee56-ac81-11e6-a3fc-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-17 12:48:12,134 ERROR auto.py[line:40] 14610904 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-17 12:48:12,135 ERROR init.py[line:127] 14610904 Tomcat安装状态Error 10.154.83.184 activity 8123
+2016-11-17 12:48:12,136 DEBUG auto.py[line:26] 14610906 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.154.83.187:/letv/public/soft/tomcat_0b474d22-ac81-11e6-a3fc-e41f1368e8f0/
+2016-11-17 12:48:12,294 INFO  init.py[line:122] 14610906 Tomcat检查脚本上传成功 10.154.83.187 activity 8123
+2016-11-17 12:48:12,295 DEBUG auto.py[line:37] 14610906 ssh 10.154.83.187 'cd /letv/public/soft/tomcat_0b474d22-ac81-11e6-a3fc-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-17 12:48:12,408 ERROR auto.py[line:40] 14610906 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-17 12:48:12,408 ERROR init.py[line:127] 14610906 Tomcat安装状态Error 10.154.83.187 activity 8123
+2016-11-17 12:48:12,409 DEBUG auto.py[line:26] 14610907 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.154.83.189:/letv/public/soft/tomcat_0b70f500-ac81-11e6-a3fc-e41f1368e8f0/
+2016-11-17 12:48:12,570 INFO  init.py[line:122] 14610907 Tomcat检查脚本上传成功 10.154.83.189 activity 8123
+2016-11-17 12:48:12,570 DEBUG auto.py[line:37] 14610907 ssh 10.154.83.189 'cd /letv/public/soft/tomcat_0b70f500-ac81-11e6-a3fc-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-17 12:48:12,685 ERROR auto.py[line:40] 14610907 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-17 12:48:12,686 ERROR init.py[line:127] 14610907 Tomcat安装状态Error 10.154.83.189 activity 8123
+2016-11-17 12:48:34,613 DEBUG auto.py[line:26] 16689558 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.154.81.29:/letv/public/soft/tomcat_18ad1906-ac81-11e6-a3fc-e41f1368e8f0/
+2016-11-17 12:48:34,964 INFO  init.py[line:122] 16689558 Tomcat检查脚本上传成功 10.154.81.29 auth-sync 8008
+2016-11-17 12:48:34,965 DEBUG auto.py[line:37] 16689558 ssh 10.154.81.29 'cd /letv/public/soft/tomcat_18ad1906-ac81-11e6-a3fc-e41f1368e8f0/ && sh check_install_tomcat.sh auth-sync 8008'
+2016-11-17 12:48:35,092 INFO  init.py[line:131] 16689558 Tomcat安装状态ok 10.154.81.29 auth-sync 8008
+2016-11-18 15:53:02,671 DEBUG auto.py[line:26] 911 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.176.81.39:/letv/public/soft/tomcat_082a6ff0-ad64-11e6-9de8-e41f1368e8f0/
+2016-11-18 15:53:02,880 INFO  init.py[line:122] 911 Tomcat检查脚本上传成功 10.176.81.39 activity 8123
+2016-11-18 15:53:02,880 DEBUG auto.py[line:37] 911 ssh 10.176.81.39 'cd /letv/public/soft/tomcat_082a6ff0-ad64-11e6-9de8-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-18 15:53:02,992 ERROR auto.py[line:40] 911 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-18 15:53:02,992 ERROR init.py[line:127] 911 Tomcat安装状态Error 10.176.81.39 activity 8123
+2016-11-18 15:53:02,993 DEBUG auto.py[line:26] 3374 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.135.80.240:/letv/public/soft/tomcat_085b8c3e-ad64-11e6-9de8-e41f1368e8f0/
+2016-11-18 15:53:03,153 INFO  init.py[line:122] 3374 Tomcat检查脚本上传成功 10.135.80.240 activity 8123
+2016-11-18 15:53:03,153 DEBUG auto.py[line:37] 3374 ssh 10.135.80.240 'cd /letv/public/soft/tomcat_085b8c3e-ad64-11e6-9de8-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-18 15:53:03,263 ERROR auto.py[line:40] 3374 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-18 15:53:03,263 ERROR init.py[line:127] 3374 Tomcat安装状态Error 10.135.80.240 activity 8123
+2016-11-18 15:53:03,264 DEBUG auto.py[line:26] 3377 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.135.80.248:/letv/public/soft/tomcat_0884e8b8-ad64-11e6-9de8-e41f1368e8f0/
+2016-11-18 15:53:03,427 INFO  init.py[line:122] 3377 Tomcat检查脚本上传成功 10.135.80.248 activity 8123
+2016-11-18 15:53:03,427 DEBUG auto.py[line:37] 3377 ssh 10.135.80.248 'cd /letv/public/soft/tomcat_0884e8b8-ad64-11e6-9de8-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-18 15:53:03,539 ERROR auto.py[line:40] 3377 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-18 15:53:03,540 ERROR init.py[line:127] 3377 Tomcat安装状态Error 10.135.80.248 activity 8123
+2016-11-18 15:53:03,540 DEBUG auto.py[line:26] 12176 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.112.82.27:/letv/public/soft/tomcat_08af19bc-ad64-11e6-9de8-e41f1368e8f0/
+2016-11-18 15:53:03,729 INFO  init.py[line:122] 12176 Tomcat检查脚本上传成功 10.112.82.27 activity 8123
+2016-11-18 15:53:03,730 DEBUG auto.py[line:37] 12176 ssh 10.112.82.27 'cd /letv/public/soft/tomcat_08af19bc-ad64-11e6-9de8-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-18 15:53:03,848 ERROR auto.py[line:40] 12176 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-18 15:53:03,849 ERROR init.py[line:127] 12176 Tomcat安装状态Error 10.112.82.27 activity 8123
+2016-11-18 15:53:03,849 DEBUG auto.py[line:26] 12179 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.112.82.21:/letv/public/soft/tomcat_08de43ea-ad64-11e6-9de8-e41f1368e8f0/
+2016-11-18 15:53:04,018 INFO  init.py[line:122] 12179 Tomcat检查脚本上传成功 10.112.82.21 activity 8123
+2016-11-18 15:53:04,018 DEBUG auto.py[line:37] 12179 ssh 10.112.82.21 'cd /letv/public/soft/tomcat_08de43ea-ad64-11e6-9de8-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-18 15:53:04,139 ERROR auto.py[line:40] 12179 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-18 15:53:04,139 ERROR init.py[line:127] 12179 Tomcat安装状态Error 10.112.82.21 activity 8123
+2016-11-18 15:53:04,140 DEBUG auto.py[line:26] 14493092 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.176.81.40:/letv/public/soft/tomcat_090aa070-ad64-11e6-9de8-e41f1368e8f0/
+2016-11-18 15:53:04,296 INFO  init.py[line:122] 14493092 Tomcat检查脚本上传成功 10.176.81.40 activity 8123
+2016-11-18 15:53:04,296 DEBUG auto.py[line:37] 14493092 ssh 10.176.81.40 'cd /letv/public/soft/tomcat_090aa070-ad64-11e6-9de8-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-18 15:53:04,410 ERROR auto.py[line:40] 14493092 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-18 15:53:04,410 ERROR init.py[line:127] 14493092 Tomcat安装状态Error 10.176.81.40 activity 8123
+2016-11-18 15:53:04,411 DEBUG auto.py[line:26] 14608038 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.154.83.158:/letv/public/soft/tomcat_0933fbaa-ad64-11e6-9de8-e41f1368e8f0/
+2016-11-18 15:53:04,570 INFO  init.py[line:122] 14608038 Tomcat检查脚本上传成功 10.154.83.158 activity 8123
+2016-11-18 15:53:04,571 DEBUG auto.py[line:37] 14608038 ssh 10.154.83.158 'cd /letv/public/soft/tomcat_0933fbaa-ad64-11e6-9de8-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-18 15:53:04,687 ERROR auto.py[line:40] 14608038 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-18 15:53:04,688 ERROR init.py[line:127] 14608038 Tomcat安装状态Error 10.154.83.158 activity 8123
+2016-11-18 15:53:04,689 DEBUG auto.py[line:26] 14610886 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.154.83.159:/letv/public/soft/tomcat_095e4e96-ad64-11e6-9de8-e41f1368e8f0/
+2016-11-18 15:53:04,851 INFO  init.py[line:122] 14610886 Tomcat检查脚本上传成功 10.154.83.159 activity 8123
+2016-11-18 15:53:04,851 DEBUG auto.py[line:37] 14610886 ssh 10.154.83.159 'cd /letv/public/soft/tomcat_095e4e96-ad64-11e6-9de8-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-18 15:53:04,964 ERROR auto.py[line:40] 14610886 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-18 15:53:04,965 ERROR init.py[line:127] 14610886 Tomcat安装状态Error 10.154.83.159 activity 8123
+2016-11-18 15:53:04,966 DEBUG auto.py[line:26] 14610888 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.154.83.162:/letv/public/soft/tomcat_09888f58-ad64-11e6-9de8-e41f1368e8f0/
+2016-11-18 15:53:05,125 INFO  init.py[line:122] 14610888 Tomcat检查脚本上传成功 10.154.83.162 activity 8123
+2016-11-18 15:53:05,125 DEBUG auto.py[line:37] 14610888 ssh 10.154.83.162 'cd /letv/public/soft/tomcat_09888f58-ad64-11e6-9de8-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-18 15:53:05,242 ERROR auto.py[line:40] 14610888 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-18 15:53:05,242 ERROR init.py[line:127] 14610888 Tomcat安装状态Error 10.154.83.162 activity 8123
+2016-11-18 15:53:05,243 DEBUG auto.py[line:26] 14610889 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.154.83.166:/letv/public/soft/tomcat_09b2e1e0-ad64-11e6-9de8-e41f1368e8f0/
+2016-11-18 15:53:05,405 INFO  init.py[line:122] 14610889 Tomcat检查脚本上传成功 10.154.83.166 activity 8123
+2016-11-18 15:53:05,405 DEBUG auto.py[line:37] 14610889 ssh 10.154.83.166 'cd /letv/public/soft/tomcat_09b2e1e0-ad64-11e6-9de8-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-18 15:53:05,523 ERROR auto.py[line:40] 14610889 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-18 15:53:05,524 ERROR init.py[line:127] 14610889 Tomcat安装状态Error 10.154.83.166 activity 8123
+2016-11-18 15:53:05,525 DEBUG auto.py[line:26] 14610891 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.154.83.168:/letv/public/soft/tomcat_09dde11a-ad64-11e6-9de8-e41f1368e8f0/
+2016-11-18 15:53:05,686 INFO  init.py[line:122] 14610891 Tomcat检查脚本上传成功 10.154.83.168 activity 8123
+2016-11-18 15:53:05,686 DEBUG auto.py[line:37] 14610891 ssh 10.154.83.168 'cd /letv/public/soft/tomcat_09dde11a-ad64-11e6-9de8-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-18 15:53:05,804 ERROR auto.py[line:40] 14610891 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-18 15:53:05,804 ERROR init.py[line:127] 14610891 Tomcat安装状态Error 10.154.83.168 activity 8123
+2016-11-18 15:53:05,805 DEBUG auto.py[line:26] 14610892 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.154.83.171:/letv/public/soft/tomcat_0a08a01c-ad64-11e6-9de8-e41f1368e8f0/
+2016-11-18 15:53:05,965 INFO  init.py[line:122] 14610892 Tomcat检查脚本上传成功 10.154.83.171 activity 8123
+2016-11-18 15:53:05,965 DEBUG auto.py[line:37] 14610892 ssh 10.154.83.171 'cd /letv/public/soft/tomcat_0a08a01c-ad64-11e6-9de8-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-18 15:53:06,080 ERROR auto.py[line:40] 14610892 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-18 15:53:06,081 ERROR init.py[line:127] 14610892 Tomcat安装状态Error 10.154.83.171 activity 8123
+2016-11-18 15:53:06,081 DEBUG auto.py[line:26] 14610894 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.154.83.172:/letv/public/soft/tomcat_0a32da3a-ad64-11e6-9de8-e41f1368e8f0/
+2016-11-18 15:53:06,242 INFO  init.py[line:122] 14610894 Tomcat检查脚本上传成功 10.154.83.172 activity 8123
+2016-11-18 15:53:06,242 DEBUG auto.py[line:37] 14610894 ssh 10.154.83.172 'cd /letv/public/soft/tomcat_0a32da3a-ad64-11e6-9de8-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-18 15:53:06,356 ERROR auto.py[line:40] 14610894 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-18 15:53:06,356 ERROR init.py[line:127] 14610894 Tomcat安装状态Error 10.154.83.172 activity 8123
+2016-11-18 15:53:06,357 DEBUG auto.py[line:26] 14610895 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.154.83.173:/letv/public/soft/tomcat_0a5cdf88-ad64-11e6-9de8-e41f1368e8f0/
+2016-11-18 15:53:06,532 INFO  init.py[line:122] 14610895 Tomcat检查脚本上传成功 10.154.83.173 activity 8123
+2016-11-18 15:53:06,533 DEBUG auto.py[line:37] 14610895 ssh 10.154.83.173 'cd /letv/public/soft/tomcat_0a5cdf88-ad64-11e6-9de8-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-18 15:53:06,652 ERROR auto.py[line:40] 14610895 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-18 15:53:06,653 ERROR init.py[line:127] 14610895 Tomcat安装状态Error 10.154.83.173 activity 8123
+2016-11-18 15:53:06,653 DEBUG auto.py[line:26] 14610897 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.154.83.174:/letv/public/soft/tomcat_0a8a1f34-ad64-11e6-9de8-e41f1368e8f0/
+2016-11-18 15:53:06,810 INFO  init.py[line:122] 14610897 Tomcat检查脚本上传成功 10.154.83.174 activity 8123
+2016-11-18 15:53:06,811 DEBUG auto.py[line:37] 14610897 ssh 10.154.83.174 'cd /letv/public/soft/tomcat_0a8a1f34-ad64-11e6-9de8-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-18 15:53:06,924 ERROR auto.py[line:40] 14610897 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-18 15:53:06,924 ERROR init.py[line:127] 14610897 Tomcat安装状态Error 10.154.83.174 activity 8123
+2016-11-18 15:53:06,925 DEBUG auto.py[line:26] 14610898 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.154.83.177:/letv/public/soft/tomcat_0ab39184-ad64-11e6-9de8-e41f1368e8f0/
+2016-11-18 15:53:07,089 INFO  init.py[line:122] 14610898 Tomcat检查脚本上传成功 10.154.83.177 activity 8123
+2016-11-18 15:53:07,089 DEBUG auto.py[line:37] 14610898 ssh 10.154.83.177 'cd /letv/public/soft/tomcat_0ab39184-ad64-11e6-9de8-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-18 15:53:07,203 ERROR auto.py[line:40] 14610898 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-18 15:53:07,204 ERROR init.py[line:127] 14610898 Tomcat安装状态Error 10.154.83.177 activity 8123
+2016-11-18 15:53:07,205 DEBUG auto.py[line:26] 14610900 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.154.83.178:/letv/public/soft/tomcat_0ade3a38-ad64-11e6-9de8-e41f1368e8f0/
+2016-11-18 15:53:07,363 INFO  init.py[line:122] 14610900 Tomcat检查脚本上传成功 10.154.83.178 activity 8123
+2016-11-18 15:53:07,364 DEBUG auto.py[line:37] 14610900 ssh 10.154.83.178 'cd /letv/public/soft/tomcat_0ade3a38-ad64-11e6-9de8-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-18 15:53:07,477 ERROR auto.py[line:40] 14610900 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-18 15:53:07,477 ERROR init.py[line:127] 14610900 Tomcat安装状态Error 10.154.83.178 activity 8123
+2016-11-18 15:53:07,478 DEBUG auto.py[line:26] 14610901 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.154.83.179:/letv/public/soft/tomcat_0b07f116-ad64-11e6-9de8-e41f1368e8f0/
+2016-11-18 15:53:07,643 INFO  init.py[line:122] 14610901 Tomcat检查脚本上传成功 10.154.83.179 activity 8123
+2016-11-18 15:53:07,643 DEBUG auto.py[line:37] 14610901 ssh 10.154.83.179 'cd /letv/public/soft/tomcat_0b07f116-ad64-11e6-9de8-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-18 15:53:07,759 ERROR auto.py[line:40] 14610901 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-18 15:53:07,760 ERROR init.py[line:127] 14610901 Tomcat安装状态Error 10.154.83.179 activity 8123
+2016-11-18 15:53:07,761 DEBUG auto.py[line:26] 14610903 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.154.83.182:/letv/public/soft/tomcat_0b331152-ad64-11e6-9de8-e41f1368e8f0/
+2016-11-18 15:53:07,919 INFO  init.py[line:122] 14610903 Tomcat检查脚本上传成功 10.154.83.182 activity 8123
+2016-11-18 15:53:07,919 DEBUG auto.py[line:37] 14610903 ssh 10.154.83.182 'cd /letv/public/soft/tomcat_0b331152-ad64-11e6-9de8-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-18 15:53:08,027 ERROR auto.py[line:40] 14610903 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-18 15:53:08,028 ERROR init.py[line:127] 14610903 Tomcat安装状态Error 10.154.83.182 activity 8123
+2016-11-18 15:53:08,028 DEBUG auto.py[line:26] 14610904 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.154.83.184:/letv/public/soft/tomcat_0b5beef6-ad64-11e6-9de8-e41f1368e8f0/
+2016-11-18 15:53:08,197 INFO  init.py[line:122] 14610904 Tomcat检查脚本上传成功 10.154.83.184 activity 8123
+2016-11-18 15:53:08,198 DEBUG auto.py[line:37] 14610904 ssh 10.154.83.184 'cd /letv/public/soft/tomcat_0b5beef6-ad64-11e6-9de8-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-18 15:53:08,317 ERROR auto.py[line:40] 14610904 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-18 15:53:08,317 ERROR init.py[line:127] 14610904 Tomcat安装状态Error 10.154.83.184 activity 8123
+2016-11-18 15:53:08,318 DEBUG auto.py[line:26] 14610906 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.154.83.187:/letv/public/soft/tomcat_0b882084-ad64-11e6-9de8-e41f1368e8f0/
+2016-11-18 15:53:08,480 INFO  init.py[line:122] 14610906 Tomcat检查脚本上传成功 10.154.83.187 activity 8123
+2016-11-18 15:53:08,480 DEBUG auto.py[line:37] 14610906 ssh 10.154.83.187 'cd /letv/public/soft/tomcat_0b882084-ad64-11e6-9de8-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-18 15:53:08,598 ERROR auto.py[line:40] 14610906 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-18 15:53:08,599 ERROR init.py[line:127] 14610906 Tomcat安装状态Error 10.154.83.187 activity 8123
+2016-11-18 15:53:08,599 DEBUG auto.py[line:26] 14610907 rsync -aP --delete ./packages/tomcat/check_install_tomcat.sh root@10.154.83.189:/letv/public/soft/tomcat_0bb30bb4-ad64-11e6-9de8-e41f1368e8f0/
+2016-11-18 15:53:08,762 INFO  init.py[line:122] 14610907 Tomcat检查脚本上传成功 10.154.83.189 activity 8123
+2016-11-18 15:53:08,763 DEBUG auto.py[line:37] 14610907 ssh 10.154.83.189 'cd /letv/public/soft/tomcat_0bb30bb4-ad64-11e6-9de8-e41f1368e8f0/ && sh check_install_tomcat.sh activity 8123'
+2016-11-18 15:53:08,880 ERROR auto.py[line:40] 14610907 Error:/letv/server/tomcat_activity_8123 ,No such directory !
+2016-11-18 15:53:08,881 ERROR init.py[line:127] 14610907 Tomcat安装状态Error 10.154.83.189 activity 8123
+2016-11-21 14:09:55,892 INFO  connectionpool.py[line:203] Starting new HTTP connection (1): res.lemall.com
+2016-11-21 14:09:55,957 DEBUG connectionpool.py[line:383] "POST /rel_publish HTTP/1.1" 200 2
+2016-11-21 14:09:55,959 DEBUG auto.py[line:105] ID:168_searcher-thrift> svn export --username ops_shop --password shop_ops http://svn.letv.cn/lemall/letvshop/code/test/search/searcher-thrift/2.0.4 ../tmp/168_searcher-thrift_1fd654c6-afb1-11e6-a3fc-e41f1368e8f0 && svn export --force --username ops_shop --password shop_ops http://svn.letv.cn/lemall/letvshop/code/test/search/searcher-thrift/pre_release/2.0.4 ../tmp/168_searcher-thrift_1fd654c6-afb1-11e6-a3fc-e41f1368e8f0
+2016-11-21 14:09:59,214 INFO  auto.py[line:112] ID:168_searcher-thrift> 代码拉取成功 searcher-thrift SVN:[u'http://svn.letv.cn/lemall/letvshop/code/test/search/searcher-thrift/2.0.4', u'http://svn.letv.cn/lemall/letvshop/code/test/search/searcher-thrift/pre_release/2.0.4']
+2016-11-21 14:09:59,217 INFO  connectionpool.py[line:203] Starting new HTTP connection (1): res.lemall.com
+2016-11-21 14:09:59,246 DEBUG connectionpool.py[line:383] "POST /rel_publish HTTP/1.1" 200 2
+2016-11-21 14:09:59,248 INFO  connectionpool.py[line:203] Starting new HTTP connection (1): res.lemall.com
+2016-11-21 14:09:59,262 DEBUG connectionpool.py[line:383] "GET /check_rel?rel_id=168 HTTP/1.1" 200 8
+2016-11-21 14:09:59,263 DEBUG auto.py[line:26] ID:168_searcher-thrift> rsync -aP  root@10.112.81.9:/letv/deployment/searcher-thrift/ ./backup/168_searcher-thrift/
+2016-11-21 14:27:52,837 INFO  connectionpool.py[line:176] Starting new HTTP connection (1): res.lemall.com
+2016-11-21 14:27:52,900 DEBUG connectionpool.py[line:344] "POST /rel_publish HTTP/1.1" 200 2
+2016-11-21 14:27:52,901 DEBUG auto.py[line:105] ID:170_cib_oa> svn export --username ops_shop --password shop_ops http://svn.letv.cn/lemall/letvshop/code/trunk/cib_oa/1.0.0.4 ../tmp/170_cib_oa_a1bea1a8-afb3-11e6-b5dc-e41f1368e8f0 && svn export --force --username ops_shop --password shop_ops http://svn.letv.cn/lemall/letvshop/code/test/cib_oa/1.0.0.4_preview_conf ../tmp/170_cib_oa_a1bea1a8-afb3-11e6-b5dc-e41f1368e8f0
+2016-11-21 14:27:55,604 INFO  auto.py[line:112] ID:170_cib_oa> 代码拉取成功 cib_oa SVN:[u'http://svn.letv.cn/lemall/letvshop/code/trunk/cib_oa/1.0.0.4', u'http://svn.letv.cn/lemall/letvshop/code/test/cib_oa/1.0.0.4_preview_conf']
+2016-11-21 14:27:55,606 INFO  connectionpool.py[line:176] Starting new HTTP connection (1): res.lemall.com
+2016-11-21 14:27:55,633 DEBUG connectionpool.py[line:344] "POST /rel_publish HTTP/1.1" 200 2
+2016-11-21 14:27:55,635 INFO  connectionpool.py[line:176] Starting new HTTP connection (1): res.lemall.com
+2016-11-21 14:27:55,651 DEBUG connectionpool.py[line:344] "GET /check_rel?rel_id=170 HTTP/1.1" 200 8
+2016-11-21 14:27:55,651 DEBUG auto.py[line:26] ID:170_cib_oa> rsync -aP  root@10.112.81.8:/letv/deployment/cib_oa/ ./backup/170_cib_oa/
+2016-11-21 14:27:57,696 DEBUG auto.py[line:156] ID:170_cib_oa> cd ./backup && zip -rm 170_cib_oa.zip 170_cib_oa && cd ../
+2016-11-21 14:27:59,493 INFO  auto.py[line:162] ID:170_cib_oa> 代码备份成功 10.112.81.8 cib_oa
+2016-11-21 14:27:59,496 INFO  connectionpool.py[line:176] Starting new HTTP connection (1): res.lemall.com
+2016-11-21 14:27:59,512 DEBUG connectionpool.py[line:344] "GET /check_rel?rel_id=170 HTTP/1.1" 200 8
+2016-11-21 14:27:59,514 INFO  connectionpool.py[line:176] Starting new HTTP connection (1): res.lemall.com
+2016-11-21 14:27:59,538 DEBUG connectionpool.py[line:344] "POST /rel_publish HTTP/1.1" 200 2
+2016-11-21 14:27:59,539 DEBUG auto.py[line:37] ID:170_cib_oa-10.112.81.8-8008> ssh 10.112.81.8 '/etc/init.d/tomcat_cib_oa_8008 stop'
+2016-11-21 14:28:02,567 INFO  auto.py[line:86] ID:170_cib_oa-10.112.81.8-8008> Tomcat stop成功 10.112.81.8 cib_oa 8008
+2016-11-21 14:28:02,570 INFO  connectionpool.py[line:176] Starting new HTTP connection (1): res.lemall.com
+2016-11-21 14:28:02,597 DEBUG connectionpool.py[line:344] "POST /rel_publish HTTP/1.1" 200 2
+2016-11-21 14:28:02,598 DEBUG auto.py[line:26] ID:170_cib_oa-10.112.81.8-8008> rsync -aP --delete ../tmp/170_cib_oa_a1bea1a8-afb3-11e6-b5dc-e41f1368e8f0/ root@10.112.81.8:/letv/deployment/cib_oa/
+2016-11-21 14:28:03,130 INFO  auto.py[line:175] ID:170_cib_oa-10.112.81.8-8008> 全量代码上传成功 10.112.81.8 cib_oa
+2016-11-21 14:28:03,133 INFO  connectionpool.py[line:176] Starting new HTTP connection (1): res.lemall.com
+2016-11-21 14:28:03,161 DEBUG connectionpool.py[line:344] "POST /rel_publish HTTP/1.1" 200 2
+2016-11-21 14:28:03,162 DEBUG auto.py[line:37] ID:170_cib_oa-10.112.81.8-8008> ssh 10.112.81.8 '/etc/init.d/tomcat_cib_oa_8008 start'
+2016-11-21 14:28:03,364 INFO  auto.py[line:86] ID:170_cib_oa-10.112.81.8-8008> Tomcat start成功 10.112.81.8 cib_oa 8008
+2016-11-21 14:28:03,365 INFO  auto.py[line:233] ID:170_cib_oa-10.112.81.8-8008> 发版完成[全量] 10.112.81.8 cib_oa 8008
+2016-11-21 14:28:03,367 INFO  connectionpool.py[line:176] Starting new HTTP connection (1): res.lemall.com
+2016-11-21 14:28:03,394 DEBUG connectionpool.py[line:344] "POST /rel_publish HTTP/1.1" 200 2
+2016-11-22 18:29:21,434 DEBUG auto.py[line:26] ID:10335_zhongchou-10.154.81.53-8001> rsync -aP --delete ./packages/tomcat/ root@10.154.81.53:/letv/public/soft/tomcat_87ff1a04-b09e-11e6-aad7-e41f1368e8f0/
+2016-11-22 18:29:21,854 INFO  auto.py[line:53] ID:10335_zhongchou-10.154.81.53-8001> Tomcat安装包上传成功 10.154.81.53 zhongchou 8001
+2016-11-22 18:29:21,854 DEBUG auto.py[line:37] ID:10335_zhongchou-10.154.81.53-8001> ssh 10.154.81.53 'cd /letv/public/soft/tomcat_87ff1a04-b09e-11e6-aad7-e41f1368e8f0 && sh install_tomcat.sh zhongchou 8001'
+2016-11-22 18:29:22,411 INFO  auto.py[line:60] ID:10335_zhongchou-10.154.81.53-8001> Tomcat安装成功 10.154.81.53 zhongchou 8001
+2016-11-23 10:10:01,521 INFO  connectionpool.py[line:176] Starting new HTTP connection (1): res.lemall.com
+2016-11-23 10:10:01,570 DEBUG connectionpool.py[line:344] "POST /rel_publish HTTP/1.1" 200 2
+2016-11-23 10:10:01,571 DEBUG auto.py[line:105] ID:179_zhongchou> svn export --username ops_shop --password shop_ops http://svn.letv.cn/lemall/letvshop/code/test/zhongchou/pc/2.0.0.2 ../tmp/179_zhongchou_f0f0933e-b121-11e6-b1a3-e41f1368e8f0
+2016-11-23 10:13:17,300 INFO  connectionpool.py[line:176] Starting new HTTP connection (1): res.lemall.com
+2016-11-23 10:13:17,340 DEBUG connectionpool.py[line:344] "POST /rel_publish HTTP/1.1" 200 2
+2016-11-23 10:13:17,341 DEBUG auto.py[line:105] ID:179_zhongchou> svn export --username ops_shop --password shop_ops http://svn.letv.cn/lemall/letvshop/code/test/zhongchou/pc/2.0.0.2 ../tmp/179_zhongchou_65a0b312-b122-11e6-84f0-e41f1368e8f0
+2016-11-23 10:48:17,109 DEBUG auto.py[line:26] ID:10338_mzhongchou-10.154.81.53-8002> rsync -aP --delete ./packages/tomcat/ root@10.154.81.53:/letv/public/soft/tomcat_492fd974-b127-11e6-88a0-e41f1368e8f0/
+2016-11-23 10:48:17,551 INFO  auto.py[line:53] ID:10338_mzhongchou-10.154.81.53-8002> Tomcat安装包上传成功 10.154.81.53 mzhongchou 8002
+2016-11-23 10:48:17,551 DEBUG auto.py[line:37] ID:10338_mzhongchou-10.154.81.53-8002> ssh 10.154.81.53 'cd /letv/public/soft/tomcat_492fd974-b127-11e6-88a0-e41f1368e8f0 && sh install_tomcat.sh mzhongchou 8002'
+2016-11-23 10:48:18,119 INFO  auto.py[line:60] ID:10338_mzhongchou-10.154.81.53-8002> Tomcat安装成功 10.154.81.53 mzhongchou 8002
+2016-11-23 10:54:37,126 INFO  connectionpool.py[line:176] Starting new HTTP connection (1): res.lemall.com
+2016-11-23 10:54:37,170 DEBUG connectionpool.py[line:344] "POST /rel_publish HTTP/1.1" 200 2
+2016-11-23 10:54:37,171 DEBUG auto.py[line:105] ID:168_searcher-thrift> svn export --username ops_shop --password shop_ops http://svn.letv.cn/lemall/letvshop/code/test/search/searcher-thrift/2.0.4 ../tmp/168_searcher-thrift_2bb8c53a-b128-11e6-aad7-e41f1368e8f0 && svn export --force --username ops_shop --password shop_ops http://svn.letv.cn/lemall/letvshop/code/test/search/searcher-thrift/pre_release/2.0.4 ../tmp/168_searcher-thrift_2bb8c53a-b128-11e6-aad7-e41f1368e8f0
+2016-11-23 10:54:40,087 INFO  auto.py[line:112] ID:168_searcher-thrift> 代码拉取成功 searcher-thrift SVN:[u'http://svn.letv.cn/lemall/letvshop/code/test/search/searcher-thrift/2.0.4', u'http://svn.letv.cn/lemall/letvshop/code/test/search/searcher-thrift/pre_release/2.0.4']
+2016-11-23 10:54:40,089 INFO  connectionpool.py[line:176] Starting new HTTP connection (1): res.lemall.com
+2016-11-23 10:54:40,116 DEBUG connectionpool.py[line:344] "POST /rel_publish HTTP/1.1" 200 2
+2016-11-23 10:54:40,118 INFO  connectionpool.py[line:176] Starting new HTTP connection (1): res.lemall.com
+2016-11-23 10:54:40,132 DEBUG connectionpool.py[line:344] "GET /check_rel?rel_id=168 HTTP/1.1" 200 8
+2016-11-23 10:54:40,133 DEBUG auto.py[line:26] ID:168_searcher-thrift> rsync -aP  root@10.112.81.9:/letv/deployment/searcher-thrift/ ./backup/168_searcher-thrift/
+2016-11-23 10:54:41,858 DEBUG auto.py[line:156] ID:168_searcher-thrift> cd ./backup && zip -rm 168_searcher-thrift.zip 168_searcher-thrift && cd ../
+2016-11-23 10:56:27,368 INFO  connectionpool.py[line:176] Starting new HTTP connection (1): res.lemall.com
+2016-11-23 10:56:27,409 DEBUG connectionpool.py[line:344] "POST /rel_publish HTTP/1.1" 200 2
+2016-11-23 10:56:27,410 DEBUG auto.py[line:105] ID:168_searcher-thrift> svn export --username ops_shop --password shop_ops http://svn.letv.cn/lemall/letvshop/code/test/search/searcher-thrift/2.0.4 ../tmp/168_searcher-thrift_6d6dd2f4-b128-11e6-834f-e41f1368e8f0 && svn export --force --username ops_shop --password shop_ops http://svn.letv.cn/lemall/letvshop/code/test/search/searcher-thrift/pre_release/2.0.4 ../tmp/168_searcher-thrift_6d6dd2f4-b128-11e6-834f-e41f1368e8f0
+2016-11-23 10:56:30,259 INFO  auto.py[line:112] ID:168_searcher-thrift> 代码拉取成功 searcher-thrift SVN:[u'http://svn.letv.cn/lemall/letvshop/code/test/search/searcher-thrift/2.0.4', u'http://svn.letv.cn/lemall/letvshop/code/test/search/searcher-thrift/pre_release/2.0.4']
+2016-11-23 10:56:30,262 INFO  connectionpool.py[line:176] Starting new HTTP connection (1): res.lemall.com
+2016-11-23 10:56:30,288 DEBUG connectionpool.py[line:344] "POST /rel_publish HTTP/1.1" 200 2
+2016-11-23 10:56:30,290 INFO  connectionpool.py[line:176] Starting new HTTP connection (1): res.lemall.com
+2016-11-23 10:56:30,303 DEBUG connectionpool.py[line:344] "GET /check_rel?rel_id=168 HTTP/1.1" 200 8
+2016-11-23 10:56:30,304 DEBUG auto.py[line:26] ID:168_searcher-thrift> rsync -aP  root@10.112.81.9:/letv/deployment/searcher-thrift/ ./backup/168_searcher-thrift/
+2016-11-23 10:56:30,475 DEBUG auto.py[line:156] ID:168_searcher-thrift> cd ./backup && zip -rm 168_searcher-thrift.zip 168_searcher-thrift && cd ../
+2016-11-23 10:57:57,489 DEBUG auto.py[line:26] ID:10339_zhangxing_test-10.135.28.200-9988> rsync -aP --delete ./packages/tomcat/ root@10.135.28.200:/letv/public/soft/tomcat_a31eda06-b128-11e6-8a75-e41f1368e8f0/
+2016-11-23 10:57:57,854 INFO  auto.py[line:53] ID:10339_zhangxing_test-10.135.28.200-9988> Tomcat安装包上传成功 10.135.28.200 zhangxing_test 9988
+2016-11-23 10:57:57,854 DEBUG auto.py[line:37] ID:10339_zhangxing_test-10.135.28.200-9988> ssh 10.135.28.200 'cd /letv/public/soft/tomcat_a31eda06-b128-11e6-8a75-e41f1368e8f0 && sh install_tomcat.sh zhangxing_test 9988'
+2016-11-23 10:57:58,749 INFO  auto.py[line:60] ID:10339_zhangxing_test-10.135.28.200-9988> Tomcat安装成功 10.135.28.200 zhangxing_test 9988
+2016-11-23 11:01:14,004 INFO  connectionpool.py[line:176] Starting new HTTP connection (1): res.lemall.com
+2016-11-23 11:01:14,052 DEBUG connectionpool.py[line:344] "POST /rel_publish HTTP/1.1" 200 2
+2016-11-23 11:01:14,054 DEBUG auto.py[line:105] ID:182_zhangxing_test> svn export --username ops_shop --password shop_ops http://svn.letv.cn/lemall/ops/code/test/1.0.0.0 ../tmp/182_zhangxing_test_18483a34-b129-11e6-961a-e41f1368e8f0
+2016-11-23 11:01:14,348 INFO  auto.py[line:112] ID:182_zhangxing_test> 代码拉取成功 zhangxing_test SVN:http://svn.letv.cn/lemall/ops/code/test/1.0.0.0
+2016-11-23 11:01:14,350 INFO  connectionpool.py[line:176] Starting new HTTP connection (1): res.lemall.com
+2016-11-23 11:01:14,377 DEBUG connectionpool.py[line:344] "POST /rel_publish HTTP/1.1" 200 2
+2016-11-23 11:01:14,379 INFO  connectionpool.py[line:176] Starting new HTTP connection (1): res.lemall.com
+2016-11-23 11:01:14,392 DEBUG connectionpool.py[line:344] "GET /check_rel?rel_id=182 HTTP/1.1" 200 5
+2016-11-23 11:01:14,395 INFO  connectionpool.py[line:176] Starting new HTTP connection (1): res.lemall.com
+2016-11-23 11:01:14,409 DEBUG connectionpool.py[line:344] "GET /check_rel?rel_id=182 HTTP/1.1" 200 5
+2016-11-23 11:01:14,411 INFO  connectionpool.py[line:176] Starting new HTTP connection (1): res.lemall.com
+2016-11-23 11:01:14,435 DEBUG connectionpool.py[line:344] "POST /rel_publish HTTP/1.1" 200 2
+2016-11-23 11:01:14,435 DEBUG auto.py[line:26] ID:182_zhangxing_test-10.135.28.200-9988> rsync -aP --delete ../tmp/182_zhangxing_test_18483a34-b129-11e6-961a-e41f1368e8f0/ root@10.135.28.200:/letv/deployment/zhangxing_test/
+2016-11-23 11:01:14,605 INFO  auto.py[line:175] ID:182_zhangxing_test-10.135.28.200-9988> 全量代码上传成功 10.135.28.200 zhangxing_test
+2016-11-23 11:01:14,608 INFO  connectionpool.py[line:176] Starting new HTTP connection (1): res.lemall.com
+2016-11-23 11:01:14,635 DEBUG connectionpool.py[line:344] "POST /rel_publish HTTP/1.1" 200 2
+2016-11-23 11:01:14,636 DEBUG auto.py[line:37] ID:182_zhangxing_test-10.135.28.200-9988> ssh 10.135.28.200 '/etc/init.d/tomcat_zhangxing_test_9988 start'
+2016-11-23 11:01:14,918 INFO  auto.py[line:86] ID:182_zhangxing_test-10.135.28.200-9988> Tomcat start成功 10.135.28.200 zhangxing_test 9988
+2016-11-23 11:01:14,919 INFO  auto.py[line:233] ID:182_zhangxing_test-10.135.28.200-9988> 发版完成[全量] 10.135.28.200 zhangxing_test 9988
+2016-11-23 11:01:14,921 INFO  connectionpool.py[line:176] Starting new HTTP connection (1): res.lemall.com
+2016-11-23 11:01:14,948 DEBUG connectionpool.py[line:344] "POST /rel_publish HTTP/1.1" 200 2
+2016-11-23 16:32:09,754 DEBUG auto.py[line:26] ID:10346_cib_task-10.154.81.53-8003> rsync -aP --delete ./packages/tomcat/ root@10.154.81.53:/letv/public/soft/tomcat_5333ab14-b157-11e6-8a75-e41f1368e8f0/
+2016-11-23 16:32:10,368 INFO  auto.py[line:53] ID:10346_cib_task-10.154.81.53-8003> Tomcat安装包上传成功 10.154.81.53 cib_task 8003
+2016-11-23 16:32:10,369 DEBUG auto.py[line:37] ID:10346_cib_task-10.154.81.53-8003> ssh 10.154.81.53 'cd /letv/public/soft/tomcat_5333ab14-b157-11e6-8a75-e41f1368e8f0 && sh install_tomcat.sh cib_task 8003'
+2016-11-23 16:32:10,958 INFO  auto.py[line:60] ID:10346_cib_task-10.154.81.53-8003> Tomcat安装成功 10.154.81.53 cib_task 8003
+2016-11-23 17:10:46,893 INFO  connectionpool.py[line:176] Starting new HTTP connection (1): res.lemall.com
+2016-11-23 17:10:46,928 DEBUG connectionpool.py[line:344] "POST /rel_publish HTTP/1.1" 200 2
+2016-11-23 17:10:46,929 DEBUG auto.py[line:105] ID:184_cib_task> svn export --username ops_shop --password shop_ops http://svn.letv.cn/lemall/letvshop/code/test/cib_task/1.0.0.1 ../tmp/184_cib_task_b8587fb0-b15c-11e6-961a-e41f1368e8f0 && svn export --force --username ops_shop --password shop_ops http://svn.letv.cn/lemall/letvshop/code/test/cib_task/1.0.0.1_preview_conf ../tmp/184_cib_task_b8587fb0-b15c-11e6-961a-e41f1368e8f0
+2016-11-23 17:10:48,845 INFO  auto.py[line:112] ID:184_cib_task> 代码拉取成功 cib_task SVN:[u'http://svn.letv.cn/lemall/letvshop/code/test/cib_task/1.0.0.1', u'http://svn.letv.cn/lemall/letvshop/code/test/cib_task/1.0.0.1_preview_conf']
+2016-11-23 17:10:48,848 INFO  connectionpool.py[line:176] Starting new HTTP connection (1): res.lemall.com
+2016-11-23 17:10:48,875 DEBUG connectionpool.py[line:344] "POST /rel_publish HTTP/1.1" 200 2
+2016-11-23 17:10:48,877 INFO  connectionpool.py[line:176] Starting new HTTP connection (1): res.lemall.com
+2016-11-23 17:10:48,891 DEBUG connectionpool.py[line:344] "GET /check_rel?rel_id=184 HTTP/1.1" 200 5
+2016-11-23 17:10:48,893 INFO  connectionpool.py[line:176] Starting new HTTP connection (1): res.lemall.com
+2016-11-23 17:10:48,908 DEBUG connectionpool.py[line:344] "GET /check_rel?rel_id=184 HTTP/1.1" 200 5
+2016-11-23 17:10:48,910 INFO  connectionpool.py[line:176] Starting new HTTP connection (1): res.lemall.com
+2016-11-23 17:10:48,939 DEBUG connectionpool.py[line:344] "POST /rel_publish HTTP/1.1" 200 2
+2016-11-23 17:10:48,939 DEBUG auto.py[line:26] ID:184_cib_task-10.154.81.53-8003> rsync -aP --delete ../tmp/184_cib_task_b8587fb0-b15c-11e6-961a-e41f1368e8f0/ root@10.154.81.53:/letv/deployment/cib_task/
+2016-11-23 17:10:49,403 INFO  auto.py[line:175] ID:184_cib_task-10.154.81.53-8003> 全量代码上传成功 10.154.81.53 cib_task
+2016-11-23 17:10:49,406 INFO  connectionpool.py[line:176] Starting new HTTP connection (1): res.lemall.com
+2016-11-23 17:10:49,432 DEBUG connectionpool.py[line:344] "POST /rel_publish HTTP/1.1" 200 2
+2016-11-23 17:10:49,433 DEBUG auto.py[line:37] ID:184_cib_task-10.154.81.53-8003> ssh 10.154.81.53 '/etc/init.d/tomcat_cib_task_8003 start'
+2016-11-23 17:10:49,601 INFO  auto.py[line:86] ID:184_cib_task-10.154.81.53-8003> Tomcat start成功 10.154.81.53 cib_task 8003
+2016-11-23 17:10:49,601 INFO  auto.py[line:233] ID:184_cib_task-10.154.81.53-8003> 发版完成[全量] 10.154.81.53 cib_task 8003
+2016-11-23 17:10:49,604 INFO  connectionpool.py[line:176] Starting new HTTP connection (1): res.lemall.com
+2016-11-23 17:10:49,631 DEBUG connectionpool.py[line:344] "POST /rel_publish HTTP/1.1" 200 2
